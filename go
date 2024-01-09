@@ -11,7 +11,7 @@
     {
       "name": "IPv4",
       "type": 0,
-      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/live.txt",
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/jxyya/ro/main/live.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
